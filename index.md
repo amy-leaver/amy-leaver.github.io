@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
+[Capston I: Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
 <img src="images/wind2.jpg?raw=true"/>
 
 ---
@@ -25,6 +25,7 @@
 ### Category Name 2
 
 - [Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
+- [Python](/sample_page)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
