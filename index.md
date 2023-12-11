@@ -24,7 +24,7 @@
 
 ### Projects by skill
 
-- [Tableau Paublic]([ https://public.tableau.com/app/profile/amy.leaver/vizzes])
+- [Tableau Public]([https://public.tableau.com/app/profile/amy.leaver/vizzes])
 - [Python](/sample_page)
 - [SQL](/sample_page)
 - [Excel](/sample_page)
