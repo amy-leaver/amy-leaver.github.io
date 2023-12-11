@@ -7,8 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="http://www.linkedin.com/in/amy-leaver">View My LinkedIn Profile</a> 
   
-  <a href="https://github.com/amy-leaver">View My Github Profile</a>
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
