@@ -12,11 +12,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Python](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Statistical Analysis in Excel](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
