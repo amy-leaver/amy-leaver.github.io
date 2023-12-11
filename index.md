@@ -5,7 +5,7 @@
 ### Projects 
 
 [Capston I: Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
-<img src="images/capstone_wind.jpg?raw=true"/>
+<img src="images/capstone_wind_sm.jpg?raw=true"/>
 
 ---
 
