@@ -5,11 +5,11 @@
 ### Projects 
 
 [Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
-<img src="images/Capstone_1_wind_farm.jpg?raw=true"/>
+<img src="images/wind2.jpg?raw=true"/>
 
 ---
 
-[Renewable Energy Analysis](/sample_page)
+[Internal Page](/sample_page)
 <img src="images/Capstone_1_wind_farm.jpg?raw=true"/>
 
 ---
