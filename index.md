@@ -9,7 +9,7 @@
 
 ---
 
-[Internal Page](/sample_page)
+[Capstone I: Internal Page](/sample_page)
 <img src="images/Capstone_1_wind_farm.jpg?raw=true"/>
 
 ---
