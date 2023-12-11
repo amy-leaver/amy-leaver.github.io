@@ -2,7 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Projects 
+
+[Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
+
+---
 
 [Renewable Energy Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
