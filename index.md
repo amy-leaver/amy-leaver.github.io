@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Projects by skill
+### Skills
 
 - [Tableau Public Page](/tableau_page)
 - [Tableau Public Link](https://public.tableau.com/app/profile/amy.leaver)
