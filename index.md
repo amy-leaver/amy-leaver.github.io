@@ -5,12 +5,12 @@
 ### Projects 
 
 [Capston I: Renewable Energy Analysis](https://public.tableau.com/app/profile/amy.leaver/viz/Draft3_16977340246330/Story1)
-<img src="images/capstone_wind_sm.jpg?raw=true"/>
+<img src="images/capstone_wind_sm.jpeg?raw=true"/>
 
 ---
 
 [Capstone I: Internal Page](/sample_page)
-<img src="images/Capstone_1_wind_farm.jpg?raw=true"/>
+<img src="images/capstone_wind_sm.jpg?raw=true"/>
 
 ---
 [Python](/pdf/sample_presentation.pdf)
