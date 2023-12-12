@@ -11,15 +11,12 @@
 
 [Capstone I: Internal Page](/capstone_page)
 
-<img src="images/capstone_wind_sm.jpeg?raw=true"/>
 
 ---
 [Python](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Statistical Analysis in Excel](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
