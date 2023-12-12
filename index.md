@@ -27,11 +27,9 @@
 
 - [Tableau Public]([https://public.tableau.com/app/profile/amy.leaver/vizzes])
 - [Tableau Public](https://public.tableau.com/app/profile/amy.leaver)
-- [Python](/python_page)
-- [SQL](/sample_page)
-- [Excel](/sample_page)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Python](/coming_coon)
+- [SQL](/coming_soon)
+- [Excel](/excel_page)
 
 ---
 
