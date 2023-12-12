@@ -2,8 +2,8 @@
 
 ### Projects by skill
 
-- [Tableau Public]([https://public.tableau.com/app/profile/amy.leaver/vizzes])
-- [Tableau Public](https://public.tableau.com/app/profile/amy.leaver)
+- [Tableau Public Page](/tableau_page)
+- [Tableau Public Link](https://public.tableau.com/app/profile/amy.leaver)
 - [Python](/coming_coon)
 - [SQL](/coming_soon)
 - [Excel](/excel_page)
