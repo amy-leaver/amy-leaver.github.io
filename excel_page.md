@@ -1,25 +1,18 @@
 ## Excel
 
-Skills include 
+Skills include: 
 - Pivot Tables
+- VLOOKUP
 - Statistical Modeling
 - Forecasting and Prediction
 - Index Match
+- Power Query
 
-### 1. Statistical Analysis in Excel
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-### 2. Assess assumptions on which statistical inference will be based
+### 1. Descriptive Statistics
 
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 2. Inferential Statistics
 
 
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
- 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
