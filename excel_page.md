@@ -1,6 +1,6 @@
 ## Excel
 
-Skills include: pivot tables, 
+Skills include: Pivot Tables, Statistical Modeling, Forecasting and Prediction, Index Match
 
 ### 1. Statistical Analysis in Excel
 
