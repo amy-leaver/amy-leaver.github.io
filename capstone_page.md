@@ -18,7 +18,7 @@ Analyzed 50 yrs of global renewable energy data, identified trends, and used Exc
 <div class='tableauPlaceholder' id='viz1702403744085' style='position: relative; width: 50%; height: 50%;'>
   <noscript>
     <a href='#'>
-      <img alt='Capstone I ' src='https://public.tableau.com/static/images/Dr/Draft3_16977340246330/Story1/1_rss.png' style='border: none; width: 100%; height: 100%;' />
+      <img alt='Capstone I ' src='https://public.tableau.com/static/images/Dr/Draft3_16977340246330/Story1/1_rss.png' style='border: none; width: 50%; height: 50%;' />
     </a>
   </noscript>
   <object class='tableauViz' style='display:none;'>
