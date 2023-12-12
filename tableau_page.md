@@ -31,8 +31,8 @@ Analyzed 50 yrs of global renewable energy data, identified trends, and used Exc
 
 ___
 
-### 2. Assess assumptions on which statistical inference will be based
-SQL case study 
+### 2. American Energy Market Regulator Analysis
+SQL case study presented in Tableau
 
 
 ### 3. ChemCorp Executive Presentation
